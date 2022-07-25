@@ -15,6 +15,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
     </a>
 </div>
+
 ### 👨‍💻About me:
 
 - 🔭 I’m currently working on courses of programming
@@ -35,5 +36,13 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="" title="HTML 5" width="40px" height="40px" /> &nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="" title="HTML 5" width="40px" height="40px" /> &nbsp;
 </div>
+---
 
+### 📊My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brayanospina2005&theme=blueberry_duo)](https://git.io/streak-stats)
+
+![brayanospina2005](https://github-readme-stats.vercel.app/api?username=brayanospina2005&show_icons=true&theme=blueberry)
+
+[![brayanospina2005](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanospina2005&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
