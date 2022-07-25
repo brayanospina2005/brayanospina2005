@@ -42,9 +42,15 @@
 
 ### 📊My Stats:
 
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brayanospina2005&theme=blueberry_duo)](https://git.io/streak-stats)
 
 ![brayanospina2005](https://github-readme-stats.vercel.app/api?username=brayanospina2005&show_icons=true&theme=blueberry)
 
 [![brayanospina2005](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanospina2005&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+    
+</div>
+
+
 
