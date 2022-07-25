@@ -24,6 +24,7 @@
 - 📫 How to reach me: ospinabrayan2005@gmail.com
 
 ---
+
 <div align="left">
     <h3>Languages And Tools</h3>
             <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML 5" width="40px" height="40px" /> &nbsp;
@@ -36,6 +37,7 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="" title="HTML 5" width="40px" height="40px" /> &nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="" title="HTML 5" width="40px" height="40px" /> &nbsp;
 </div>
+
 ---
 
 ### 📊My Stats:
