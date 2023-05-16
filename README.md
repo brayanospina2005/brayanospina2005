@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="imagen" width="200">
     <h1 align="center">Hi 👋, I'm Brayan </h1>
-    <h3 align="center">I'm 17 years old, A young software developer from Colombia, starting his professional life, learning the most used languages in this industry, PYTHON, C++, HTML, CSS and JAVASCRIPT.</h3>
+    <h3 align="center">I'm 18 years old, A young software developer from Colombia, starting his professional life, learning the most used languages in this industry, PYTHON, C++, HTML, CSS and JAVASCRIPT.</h3>
     <a href="https://twitter.com/BrayanospinaMa1">
         <img src="https://img.shields.io/twitter/follow/BrayanospinaMa1?color=blue&logo=Twitter&style=for-the-badge" alt="Twitter badge">
     </a>
