@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="imagen" width="200">
     <h1 align="center">Hi 👋, I'm Brayan </h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48F798&center=true&vCenter=true&width=435&lines=Brayan+Ospina;Web+Developer" alt="Typing SVG" /></a>
     <h3 align="center">I'm 18 years old, A young software developer from Colombia, starting his professional life, learning the most used languages in this industry, PYTHON, C++, HTML, CSS and JAVASCRIPT.</h3>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayanospina2005&label=Profile%20views&color=0e75b6&style=flat" alt="brayanospina2005" /> </p>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayanospina2005" alt="brayanospina2005" /></a> </p>
@@ -54,12 +55,10 @@
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brayanospina2005&theme=blueberry_duo)](https://git.io/streak-stats)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brayanospina2005&show_icons=true&locale=en&layout=compact" alt="brayanospina2005" /></p>
-
+    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayanospina2005&show_icons=true&locale=en" alt="brayanospina2005" /></p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanospina2005&layout=compact&theme=midnight-purple)](https://github.com/brayanospina2005)
     
 </div>
 
