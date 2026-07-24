@@ -38,13 +38,6 @@ jobs:
           path: profile/pin-tier-maker.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=1A1B27&stroke=565f89&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff&sideNums=c0caf5&currStreakNum=7dcfff&sideLabels=c0caf5&dates=565f89
-          path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
