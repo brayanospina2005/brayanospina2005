@@ -50,7 +50,7 @@ Desarrollador web full stack de Colombia. Desarrollo **tiendas e-commerce**, **a
 
 <br />
 
-<img src="./profile/streak.svg" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=brayanospina2005&theme=tokyonight&hide_border=true&background=1A1B27&stroke=565f89&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff&sideNums=c0caf5&currStreakNum=7dcfff&sideLabels=c0caf5&dates=565f89" alt="GitHub streak" />
 
 <br />
 
