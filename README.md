@@ -37,7 +37,7 @@ Desarrollador web full stack de Colombia. Desarrollo **tiendas e-commerce**, **a
 
 ### Proyecto destacado
 
-[![tier-maker](https://github-readme-stats.vercel.app/api/pin/?username=brayanospina2005&repo=tier-maker&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7&description_lines_count=2)](https://github.com/brayanospina2005/tier-maker)
+[![tier-maker](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=brayanospina2005&repo=tier-maker&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7&description_lines_count=2)](https://github.com/brayanospina2005/tier-maker)
 
 ---
 
@@ -45,8 +45,8 @@ Desarrollador web full stack de Colombia. Desarrollo **tiendas e-commerce**, **a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=brayanospina2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanospina2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" alt="Top languages" />
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brayanospina2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brayanospina2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" alt="Top languages" />
 
 <br />
 
@@ -55,13 +55,5 @@ Desarrollador web full stack de Colombia. Desarrollo **tiendas e-commerce**, **a
 <br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brayanospina2005&theme=github-compact&hide_border=true&area=true&custom_title=Actividad%20reciente%20en%20GitHub&height=300" alt="GitHub activity graph" />
-
-</div>
-
----
-
-<div align="center">
-
-  ![Snake animation](https://raw.githubusercontent.com/brayanospina2005/brayanospina2005/output/github-snake-dark.svg)
 
 </div>
