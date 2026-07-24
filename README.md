@@ -1,63 +1,67 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="imagen" width="200">
-    <h1 align="center">Hi 👋, I'm Brayan </h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48F798&center=true&vCenter=true&width=435&lines=Brayan+Ospina;Web+Developer" alt=""/></a>
-    <h3 align="center">I'm 20 years old, A young software developer from Colombia, starting his professional life, web Developer.</h3>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=brayanospina2005&label=Profile%20views&color=0e75b6&style=flat" alt="brayanospina2005" /> </p>
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayanospina2005" alt="brayanospina2005" /></a> </p>
-    <a href="https://twitter.com/BrayanospinaMa1">
-        <img src="https://img.shields.io/twitter/follow/BrayanospinaMa1?color=blue&logo=Twitter&style=for-the-badge" alt="Twitter badge">
-    </a>
-    <a href="https://www.linkedin.com/in/brayan-ospina-8bb472243?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCiQh3dQyRfuzUgVCdDvVLw%3D%3D">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
-    </a>
-    <a href="https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fbrayancode&e=ATPWGCsJNpaad4lIELdIdHz7DlYRKV0rUm0BMy2YlXH4MQH_IgcQbdYD8PVMXj40H7mdjzX_sQtkRo06V6fLXzk&s=1">
-        <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="">
-    </a>
-    <a href="https://t.co/VBNNTjtw3F">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
-    </a>
-    <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/brayanospina"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="brayanospina" /></a></p><br><br>
+<div align="center">
+
+# Brayan Ospina
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7DCFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI+%26+E-commerce;React+%C2%B7+Next.js+%C2%B7+TypeScript)](https://git.io/typing-svg)
+
+**Full Stack Developer · UI & E-commerce**
+
+[![Profile views](https://komarev.com/ghpvc/?username=brayanospina2005&label=Profile+views&color=7dcfff&style=flat)](https://github.com/brayanospina2005)
+[![Website](https://img.shields.io/badge/brayanospina.dev-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://brayanospina.dev)
+
 </div>
-
-### 👨‍💻About me:
-
-- 🔭 I’m currently working on courses of programming
-- 🌱 I’m currently learning JS, REACT
-- 💬 Ask me about HTML, CSS, JS
-- 📫 How to reach me: ospinabrayan2005@gmail.com
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/brayanospina2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt=""/></a>
-<a href="https://dev.to/brayanospina2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt=""/></a>
-<a href="https://twitter.com/brayanospinama1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=""/></a>
-<a href="https://linkedin.com/in/brayan-ospina-8bb472243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt=""/></a>
-<a href="https://codesandbox.com/brayancode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt=""/></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100028512108577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=""/></a>
-<a href="https://dribbble.com/brayan2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt=""/></a>
-<a href="https://hashnode.com/brayancode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt=""/></a>
-<a href="https://www.hackerrank.com/brayancode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt=""/></a>
+### Sobre mí
+
+Desarrollador web full stack de Colombia. Desarrollo **tiendas e-commerce**, **aplicaciones web** y **sitios con diseño cuidado**, usando React, Next.js y TypeScript.
+
+- Enfocado en productos web con buena experiencia de usuario
+- Experiencia en e-commerce, integraciones y storefronts modernos
+- **Contacto:** ospinabrayan2005@gmail.com
+
+---
+
+### Tech stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,python,git,supabase,vercel,notion&theme=dark&perline=5" alt="Tech stack" />
+
+<p>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+  <img src="https://img.shields.io/badge/Better_Auth-171717?style=for-the-badge&logo=shield&logoColor=white" alt="Better Auth" />
 </p>
 
-<div align="left">
-    <h3>Languages And Tools</h3>
-            <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
-</div>
+---
+
+### Proyecto destacado
+
+[![tier-maker](https://github-readme-stats.vercel.app/api/pin/?username=brayanospina2005&repo=tier-maker&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7&description_lines_count=2)](https://github.com/brayanospina2005/tier-maker)
 
 ---
 
-### 📊My Stats:
+### GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brayanospina2005&theme=blueberry_duo)](https://git.io/streak-stats)
-    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brayanospina2005&show_icons=true&locale=en" alt="brayanospina2005" /></p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=brayanospina2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanospina2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" alt="Top languages" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanospina2005&layout=compact&theme=midnight-purple)](https://github.com/brayanospina2005)
-    
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=brayanospina2005&theme=tokyonight&hide_border=true&background=1A1B27&stroke=565f89&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff&sideNums=c0caf5&currStreakNum=7dcfff&sideLabels=c0caf5&dates=565f89" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brayanospina2005&theme=github-compact&hide_border=true&area=true&custom_title=Actividad%20reciente%20en%20GitHub&height=300" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+  ![Snake animation](https://raw.githubusercontent.com/brayanospina2005/brayanospina2005/output/github-snake-dark.svg)
+
 </div>
