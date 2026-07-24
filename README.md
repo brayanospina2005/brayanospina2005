@@ -37,7 +37,7 @@ Desarrollador web full stack de Colombia. Desarrollo **tiendas e-commerce**, **a
 
 ### Proyecto destacado
 
-[![tier-maker](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=brayanospina2005&repo=tier-maker&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7&description_lines_count=2)](https://github.com/brayanospina2005/tier-maker)
+[![tier-maker](./profile/pin-tier-maker.svg)](https://github.com/brayanospina2005/tier-maker)
 
 ---
 
@@ -45,12 +45,12 @@ Desarrollador web full stack de Colombia. Desarrollo **tiendas e-commerce**, **a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brayanospina2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brayanospina2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&text_color=c0caf5&icon_color=bb9af7" alt="Top languages" />
+<img height="180" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=brayanospina2005&theme=tokyonight&hide_border=true&background=1A1B27&stroke=565f89&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff&sideNums=c0caf5&currStreakNum=7dcfff&sideLabels=c0caf5&dates=565f89" alt="GitHub streak" />
+<img src="./profile/streak.svg" alt="GitHub streak" />
 
 <br />
 
